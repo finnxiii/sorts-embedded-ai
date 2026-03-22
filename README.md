@@ -1,7 +1,7 @@
 # SORTS — Smart Object Recognition Trash Sorting System
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/gemini-waste-sorter)
-![Award](https://img.shields.io/badge/iForge%20Hack%20Day%202025-Most%20Adventurous%20Hack%20Winner-blue)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-2E2E2E?logo=github&logoColor=white)](https://github.com/finnxiii/gemini-waste-sorter)
+![Award](https://img.shields.io/badge/iForge%20Hack%20Day%202025-Most%20Adventurous%20Hack%20Winner-brightgreen)
 
 SORTS is an embedded AI prototype that automates waste classification using real-time image recognition and low-cost hardware.
 
